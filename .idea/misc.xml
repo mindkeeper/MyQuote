@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Dicoding/2022/Android/Kotlin/Android Studio/MyQuote/app/src/main/res/layout/activity_list_quote.xml" value="0.10190217391304347" />
+        <entry key="..\:/Dicoding/2022/Android/Kotlin/Android Studio/MyQuote/app/src/main/res/layout/activity_list_quotes.xml" value="0.10190217391304347" />
         <entry key="..\:/Dicoding/2022/Android/Kotlin/Android Studio/MyQuote/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Dicoding/2022/Android/Kotlin/Android Studio/MyQuote/app/src/main/res/layout/item_quote.xml" value="0.10190217391304347" />
       </map>
     </option>
   </component>
